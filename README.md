@@ -1,9 +1,9 @@
 ### Hi there I'm Taufik Hidayat 👋
 
-- 🌱 I’m currently learning Laravel, Flutter.
-- 🔭 I’m currently working on creating webpages In Government.
+- 🌱 I’m currently learning fullstack developer with Laravel, Vue, React, Flutter etc.
+- 🔭 I’m currently working on creating application & website In Government.
 - 😀 I like to playing badminton & football.
-- 💬 Ask me about laravel or flutter.
+- 💬 Ask me about programming (specifically laravel & Flutter).
 - https://taufikhdyt.com/
 - www.linkedin.com/in/taufikhdyt17
 - https://www.kotakode.com/users/13379/taufikhdyt17
